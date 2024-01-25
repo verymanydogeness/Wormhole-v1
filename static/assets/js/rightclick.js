@@ -80,7 +80,7 @@ function tabCloak() {
 
   function enableLogin() {
     localStorage.setItem('login', 'enablelogin');
-    alert('You will now be required to sign-in to use Doge Unblocker. Your password is: "duontop". If you forget your password, you can clear your site cache or join our Discord.');
+    alert('You will now be required to sign-in to use Wormhole v1. Your password is: "wormholev1". If you forget your password, you can clear your site cache or join our Discord.');
   location.href = "/";
   }
 
